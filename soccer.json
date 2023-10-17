@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 53,
+    "articles": [
+        {
+            "source": {
+                "id": "le-monde",
+                "name": "Le Monde"
+            },
+            "author": "Aude Lasjaunias",
+            "title": "La dernière cape de Megan Rapinoe, footballeuse de combats",
+            "description": "La Ballon d’or 2019 dispute dimanche à Chicago (Illinois), face à l’Afrique du Sud, son 203ᵉ et dernier match avec le maillot de l’équipe nationale. L’épilogue d’une carrière où elle s’est illustrée autant sur les terrains qu’en dehors.",
+            "url": "https://www.lemonde.fr/sport/article/2023/09/24/la-derniere-cape-de-megan-rapinoe-footballeuse-de-combats_6190813_3242.html",
+            "urlToImage": "https://img.lemde.fr/2023/09/22/0/0/4000/2666/1440/960/60/0/ff4e2ac_1695373125782-000-1ig0nz.jpg",
+            "publishedAt": "2023-09-24T17:30:12Z",
+            "content": "Megan Rapinoe lors de la finale de la Coupe du monde de football féminin en France, entre les Etats-Unis et les Pays-Bas, le 7 juillet 2019, à Lyon. FRANCK FIFE / AFP\r\nDimanche 6 août 2023. Larbitre … [+3038 chars]"
+        },
+        {
+            "source": {
+                "id": "le-monde",
+                "name": "Le Monde"
+            },
+            "author": "Mickaël Caron",
+            "title": "Football : la bataille du temps additionnel",
+            "description": "L’allongement de la durée des matchs, voulue par la Fédération internationale de football, divise. Les syndicats de joueurs et l’UEFA s’en plaignent, les arbitres de Ligue 1 s’adaptent « avec discernement » et les télévisions apprécient ce surcroît de spectac…",
+            "url": "https://www.lemonde.fr/sport/article/2023/10/01/football-la-bataille-du-temps-additionnel_6191875_3242.html",
+            "urlToImage": "https://img.lemde.fr/2023/09/29/0/0/8256/5504/1440/960/60/0/dfc4210_1696003224635-2023-08-06t165415z-1153403678-up1ej861aybo5-rtrmadp-3-soccer-england-mci-ars-report.JPG",
+            "publishedAt": "2023-10-01T11:00:04Z",
+            "content": "Lors du match de Community Shield entre Manchester City et lArsenal, à Londres (Royaume-Uni), le 6 août 2023. DYLAN MARTINEZ / REUTERS\r\n« Jouer des matchs entiers à 100 % ? Ce nest plus possible. » C… [+2852 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Presse-citron"
+            },
+            "author": "Jean-Yves Alric",
+            "title": "La Formule 1 diffusée sur Apple TV+ : ça se précise",
+            "description": "Le géant de la Tech est très intéressé par les droits de la Formule 1 si l’on en croit les informations parues dans la presse.",
+            "url": "https://www.presse-citron.net/la-formule-1-diffusee-sur-apple-tv-ca-se-precise/",
+            "urlToImage": "https://www.presse-citron.net/app/uploads/2023/10/formule-1.jpg",
+            "publishedAt": "2023-10-02T07:00:52Z",
+            "content": "Apple va-t-il devenir le diffuseur official de la Formule 1 ? La réponse est oui si lon en croit les informations du magazine Business F1. Nos confrères affirment en effet que la firme de Cupertino s… [+2166 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Journal du geek"
+            },
+            "author": "Thomas Estimbre",
+            "title": "Alexa se met à l’IA générative, la révolution est en marche",
+            "description": "En plus d'annoncer plein de nouveaux produits, Amazon annonce que son assistant virtuel Alexa va être doté de l'IA générative. Le nouveau Alexa peut discuter comme un humain.\nAlexa se met à l’IA générative, la révolution est en marche",
+            "url": "https://www.journaldugeek.com/2023/09/22/alexa-se-met-a-lia-generative-la-revolution-est-en-marche/",
+            "urlToImage": "https://www.journaldugeek.com/content/uploads/2023/09/alexa-intelligence-artificielle.jpg",
+            "publishedAt": "2023-09-22T06:30:35Z",
+            "content": "En plus d'annoncer plein de nouveaux produits, Amazon annonce que son assistant virtuel Alexa va être doté de l'IA générative. Le nouveau Alexa peut discuter comme un humain.Après les agents conversa… [+4184 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Les Numériques"
+            },
+            "author": "Thibaud Gomès-Léal",
+            "title": "Actualité : F1 en streaming : l'offre titanesque d'Apple pour devenir diffuseur exclusif",
+            "description": "Apple voudrait rafler l'intégralité des droits de diffusion en streaming de la Formule 1 grâce à un joli chèque.",
+            "url": "https://www.lesnumeriques.com/evenement-sportif/f1-en-streaming-l-offre-titanesque-d-apple-pour-devenir-diffuseur-exclusif-n213641.html",
+            "urlToImage": "https://cdn.lesnumeriques.com/optim/news/21/213641/fb296b93-formule-1-apple-futur-diffuseur-exclusif-en-2025_png__1200_630__17-43-1809-983.jpg",
+            "publishedAt": "2023-10-03T13:50:00Z",
+            "content": "Tim Cook au Grand Prix des États-Unis en 2022.\r\n© Greg Nash / EPA\r\nApple avance ses pions dans l'arène du streaming. Le géant de la tech s'apprêterait à réaliser une offre titanesque pour récupérer l… [+2585 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slate.fr"
+            },
+            "author": "Slate.fr",
+            "title": "Les soutiens-gorge sont bien plus anciens que vous ne le croyez",
+            "description": "Cette pièce de lingerie qui a traversé les siècles a connu une sacrée évolution. Lire la suite",
+            "url": "https://www.slate.fr/story/254355/evolution-soutiens-gorge-anciens-histoire-antiquite-femme-poitrine",
+            "urlToImage": "https://www.slate.fr/sites/default/files/styles/1200x680/public/pexels-jeff-barnes-2320216.jpg",
+            "publishedAt": "2023-10-05T20:00:00Z",
+            "content": "Temps de lecture: 2 min Repéré sur National Geographic\r\nAvant d'arriver au soutien-gorge à la pointe du confort et de l'esthétisme que l'on connaît aujourd'hui, les femmes ont, au cours de l'histoire… [+3717 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Courrier International"
+            },
+            "author": null,
+            "title": "Les États-Unis ont huit ans pour apprendre à aimer le rugby",
+            "description": "Il s’agit d’un pays où le football est appelé “soccer”, où le football est inspiré du rugby et où on distingue rugby league football et rugby union football. Rien n’est simple pour le rugby à XV de l’autre côté de l’Atlantique, où il est supplanté par ses dér…",
+            "url": "https://www.courrierinternational.com/article/coupe-du-monde-les-etats-unis-ont-huit-ans-pour-apprendre-a-aimer-le-rugby",
+            "urlToImage": "https://focus.courrierinternational.com/2023/09/29/0/0/2683/1789/1200/630/60/0/38c09c1_1695982209427-000-32e68bq.jpg",
+            "publishedAt": "2023-10-01T03:00:29Z",
+            "content": "Bloomberg.com est le média en ligne de Bloomberg, le groupe américain dinformations financières et économiques créé par lex-trader et milliardaire Michael Bloomberg, qui a connu le succès grâce à ses… [+940 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Clubic"
+            },
+            "author": "Stéphane Ficca",
+            "title": "Le GeForce NOW s'enrichit de 60 nouveaux jeux en octobre, et il y a du (très) lourd !",
+            "description": "Le mois d'octobre va permettre à NVIDIA d'ajouter pas moins de 60 nouveaux jeux à son offre GeForce NOW.",
+            "url": "https://www.clubic.com/actualite-487315-le-geforce-now-s-enrichit-de-60-nouveaux-jeux-en-octobre-et-il-y-a-du-tres-lourd.html",
+            "urlToImage": "https://pic.clubic.com/v1/images/2148955/raw",
+            "publishedAt": "2023-10-06T07:45:00Z",
+            "content": "Le mois d'octobre va permettre à NVIDIA d'ajouter pas moins de 60 nouveaux jeux à son offre GeForce NOW.\r\nDisponible officiellement (en version définitive) depuis le début de l'année 2020, GeForce NO… [+3043 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tomtilley.net"
+            },
+            "author": null,
+            "title": "Everyday uses for PVC water pipe",
+            "description": "Comments",
+            "url": "https://tomtilley.net/projects/pvc/",
+            "urlToImage": null,
+            "publishedAt": "2023-09-15T20:05:05Z",
+            "content": "2006 - Present\r\nWhat can't you do with PVC\r\n(Polyvinyl\r\nChloride) pipe? The ubiquitous blue PVC water pipe can be seen\r\nalong most streets here and appears to be one of Thailand's most\r\nabundant un-n… [+35203 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gamekult"
+            },
+            "author": "Xeryus",
+            "title": "Test : EA Sports FC 24 sort du banc de touche pour l'échauffement",
+            "description": "Il y a 30 ans, Electronic Arts acquérait les droits de la licence FIFA en jeu vidéo et donnait naissance à FIFA International Soccer (ou FIFA 94 pour les intimes). En 2023, un imbroglio et des histoires de gros sous entre l’éditeur et la fédération internatio…",
+            "url": "https://www.gamekult.com/jeux/ea-sports-fc-24-3050885425/test.html",
+            "urlToImage": "https://cdn.gamekult.com/optim/images/review/30/3050856612/ea-sports-fc-24-sort-du-banc-de-touche-et-devient-la-nouvelle-star-des-simulations-de-football-c4734052__w854.jpg",
+            "publishedAt": "2023-09-28T16:00:00Z",
+            "content": "Cette fonctionnalité est reservée aux abonnés.\r\nVous ne voulez pas de publicité ?Daccord, mais...\r\nOn ne va pas se mentir, vous ne lisez Gamekult gratuitement que parce que la publicité paye nos sala… [+357 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slate.fr"
+            },
+            "author": "Pierre Rondeau",
+            "title": "Coupe du monde de rugby: l'avantage de jouer à la maison pour les Bleus?",
+            "description": "Pour son entrée dans le tournoi, le XV de France a réussi à battre l'épouvantail néo-zélandais dans un Stade de France acquis à sa cause. Mais alors comment l'expliquer? Force collective ou chance de jouer à domicile? Lire la suite",
+            "url": "https://www.slate.fr/story/252927/coupe-du-monde-rugby-2023-equipe-france-chance-jouer-domicile-avantage-maison-soutien-supporters-terrain",
+            "urlToImage": "https://www.slate.fr/sites/default/files/styles/1200x680/public/afp.com-20230909-partners-020-1669986382-highres.jpg",
+            "publishedAt": "2023-09-11T10:01:00Z",
+            "content": "Temps de lecture: 4 min\r\nIls avaient pourtant mal commencé et, finalement, les coéquipiers d'Antoine Dupont s'en sont bien sortis. Les Bleus sont parvenus à battre la Nouvelle-Zélande (27-13), triple… [+6117 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SO FOOT"
+            },
+            "author": "Matthieu DARBAS",
+            "title": "Record d’affluence en NWSL pour l’hommage à Megan Rapinoe",
+            "description": "34 130. Ballon d’Or 2019, Megan Rapinoe a été accueillie en héroïne par 34 130 spectateurs, nouveau record d’affluence pour le…",
+            "url": "https://www.sofoot.com/breves/record-daffluence-en-nwsl-pour-lhommage-a-megan-rapinoe",
+            "urlToImage": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2023/10/07111521/Icon_sipausa_48570511-1400x934.jpg",
+            "publishedAt": "2023-10-07T09:16:32Z",
+            "content": "34 130.\r\nBallon dOr 2019, Megan Rapinoe a été accueillie en héroïne par 34 130 spectateurs, nouveau record daffluence pour le championnat des États-Unis de football féminin. « Je suis un peu à court … [+749 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investing.com"
+            },
+            "author": "Reuters",
+            "title": "Soccer-Spain's soccer chief Luis Rubiales announces resignation",
+            "description": "Soccer-Spain's soccer chief Luis Rubiales announces resignation",
+            "url": "https://www.investing.com/news/stock-market-news/soccerspains-soccer-chief-luis-rubiales-announces-resignation-3171180",
+            "urlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEB59082_L.jpg",
+            "publishedAt": "2023-09-10T20:40:36Z",
+            "content": "(Reuters) -Spanish football federation chief Luis Rubiales, engulfed in a scandal over allegations he gave an unsolicited kiss to a player on the women's World Cup team last month, said on Sunday he … [+1310 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SO FOOT"
+            },
+            "author": "Enzo LEANNI",
+            "title": "La MLS résilie le contrat d’un joueur de Montréal pour « comportement néfaste »",
+            "description": "Laval fait des ravages outre-Atlantique. Matko Miljevic, milieu offensif du CF Montréal au faible temps de jeu, a vu le championnat…",
+            "url": "https://www.sofoot.com/breves/la-mls-resilie-le-contrat-dun-joueur-de-montreal-pour-comportement-nefaste",
+            "urlToImage": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2023/09/19120634/5290109-hd-1400x994.jpg",
+            "publishedAt": "2023-09-19T10:00:42Z",
+            "content": "Laval fait des ravages outre-Atlantique.\r\nMatko Miljevic, milieu offensif du CF Montréal au faible temps de jeu, a vu le championnat nord-américain résilier le contrat qui le liait à la franchise can… [+931 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SO FOOT"
+            },
+            "author": "Julien FAURE",
+            "title": "Denis Bouanga voit triple et qualifie le Los Angeles FC en playoffs",
+            "description": "Bouanga s’éclate à L.A. Parti de Saint-Etienne il y a un an et demi, Denis Bouanga (28…",
+            "url": "https://www.sofoot.com/breves/etats-unis-denis-bouanga-ex-saint-etienne-ligue-1-plante-un-triple-contre-minnesota-et-qualifie-le-los-angeles-fc-en-playoffs-de-mls",
+            "urlToImage": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2023/10/05124435/Icon_sipausa_48804373-1400x933.jpg",
+            "publishedAt": "2023-10-05T10:46:44Z",
+            "content": "Bouanga séclate à L.A.\r\nParti de Saint-Etienne il y a un an et demi, Denis Bouanga (28 ans) avait choisi daller relever le défi américain en MLS, du côté du Los Angeles FC. Un challenge relevé avec b… [+1143 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Wikipedia.org"
+            },
+            "author": "Contributors to Wikimedia projects",
+            "title": "Great Pyramid of Cholula",
+            "description": "Comments",
+            "url": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Cholula",
+            "urlToImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Gran_Pir%C3%A1mide_de_Cholula%2C_Puebla%2C_M%C3%A9xico%2C_2013-10-12%2C_DD_10.JPG/1200px-Gran_Pir%C3%A1mide_de_Cholula%2C_Puebla%2C_M%C3%A9xico%2C_2013-10-12%2C_DD_10.JPG",
+            "publishedAt": "2023-10-04T08:49:10Z",
+            "content": "The Great Pyramid of Cholula, also known as Tlachihualtepetl (Nahuatl for \"made-by-hand mountain\"), is a complex located in Cholula, Puebla, Mexico. It is the largest archaeological site of a pyramid… [+50640 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investing.com"
+            },
+            "author": "Reuters",
+            "title": "Spain's ex-soccer boss Rubiales due in court in sex assault investigation",
+            "description": "Spain's ex-soccer boss Rubiales due in court in sex assault investigation",
+            "url": "https://www.investing.com/news/world-news/spains-exsoccer-boss-rubiales-due-in-court-in-sex-assault-investigation-3174970",
+            "urlToImage": "https://i-invdn-com.investing.com/news/world_news_3_69x52._800x533_L_1419494235.jpg",
+            "publishedAt": "2023-09-14T22:15:44Z",
+            "content": "By Emma Pinedo\r\nMADRID (Reuters) - Former Spanish soccer chief Luis Rubiales will appear before a High Court judge on Friday over a complaint of sexual assault stemming from his allegedly unsolicited… [+3124 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "dh.be"
+            },
+            "author": "Fabrice Melchior",
+            "title": "Benteke va concurrencer Messi pour le titre de MVP de l’année",
+            "description": "La Major League Soccer a dévoilé les noms des joueurs qui peuvent remporter les distinctions individuelles.",
+            "url": "https://www.dhnet.be/sports/football/2023/10/06/benteke-va-concurrencer-messi-pour-le-titre-de-mvp-de-lannee-LLBL5W7TLVDW5KG2MBCKRR2LL4/",
+            "urlToImage": "https://www.dhnet.be/resizer/rNxbq-aRWuSeTjOBOmCzN28vW68=/1200x630/filters:format(jpeg):focal(906x391:916x381):watermark(cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/6LJWAO74QZHR7KW5AX2LGSOHQQ.png,0,-0,0,100)/cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/RFBPV74UOVAJBI6JAM7WIFE7RY.jpg",
+            "publishedAt": "2023-10-06T09:09:32Z",
+            "content": "Les clubs proposent les noms dun ou de deux joueurs qui espèrent décrocher la timbale. Les votes sont répartis en parts égales parmi les joueurs, les coachs et dirigeants ainsi que certains membres d… [+963 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Leblogauto.com"
+            },
+            "author": "Nicolas Anderbegani",
+            "title": "Apple va-t-elle croquer les droits de diffusion de la F1 ?",
+            "description": "Apple diffuseur unique en 2030 ?",
+            "url": "https://www.leblogauto.com/formule-1/apple-va-t-elle-croquer-les-droits-de-diffusion-de-la-f1--94877",
+            "urlToImage": "https://medias.leblogauto.com/20/2023/10/photo_article/94877/177130/1200-L-apple-va-t-elle-croquer-les-droits-de-diffusion-de-la-f1.jpg",
+            "publishedAt": "2023-10-01T07:39:00Z",
+            "content": "Dans la guerre que se livrent les plateformes de contenus, le sport occupe une choix et Apple est sur les rangs pour frapper un grand coup ! Selon un rapport publié par Business F1 Magazine, la firme… [+2501 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "dh.be"
+            },
+            "author": "Belga Belga",
+            "title": "Les Belges à l'étranger : Christian Benteke et DC United accrochés par San José",
+            "description": "Christian Benteke et DC United ont été accrochés par San Jose (0-0) samedi soir en Major League Soccer, le championnat nord-américain de football.",
+            "url": "https://www.dhnet.be/sports/football/diablesrouges/2023/09/10/les-belges-a-letranger-christian-benteke-et-dc-united-accroches-par-san-jose-PP7HSD2UTFGCLKI2E3AYMDZUHQ/",
+            "urlToImage": "https://www.dhnet.be/resizer/ikSw01TDFPjXlYCZlGTkL5xcfK4=/1200x630/filters:format(jpeg):focal(2245x1505.5:2255x1495.5):watermark(cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/6LJWAO74QZHR7KW5AX2LGSOHQQ.png,0,-0,0,100)/cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/N5J6HQTJE5AMFEW7SA2IVCU3DU.jpg",
+            "publishedAt": "2023-09-10T08:27:54Z",
+            "content": "DC United, entraîné par Wayne Rooney, occupe la 9e place de la Conférence Est avec 34 points en 28 matches. Le top 9 de chaque conférence se qualifie pour les playoffs.\r\nLogan Ndenbe et Kansas City s… [+390 chars]"
+        }
+    ]
+}

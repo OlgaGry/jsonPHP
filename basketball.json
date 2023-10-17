@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 138,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Journal du geek"
+            },
+            "author": "Amandine Jonniaux",
+            "title": "Test de la montre Huawei GT 4 : classique ou moderne, pourquoi choisir ?",
+            "description": "Annoncée aujourd'hui, la montre connectée Huawei GT 4 veut s'imposer comme une alternative solide face aux montres connectées d'entrée de gamme et aux trackers fitness. Pari réussi ?\nTest de la montre Huawei GT 4 : classique ou moderne, pourquoi choisir ?",
+            "url": "https://www.journaldugeek.com/test/test-de-la-montre-huawei-gt-4-classique-ou-moderne-pourquoi-choisir/",
+            "urlToImage": "https://www.journaldugeek.com/content/uploads/2023/09/template-jdg-2023-09-14t092025-927.jpg",
+            "publishedAt": "2023-09-14T13:30:11Z",
+            "content": "Annoncée aujourd'hui, la montre connectée Huawei GT 4 veut s'imposer comme une alternative solide face aux montres connectées d'entrée de gamme et aux trackers fitness. Pari réussi ?Dans la continuit… [+6062 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Frandroid"
+            },
+            "author": "Humanoid Content",
+            "title": "Huawei Watch GT 4 : enfin une montre connectée aussi chic qu’un bijou [Sponso]",
+            "description": "Avec sa nouvelle Watch GT 4, Huawei prouve qu’il n’est pas nécessaire d’arbitrer entre l’élégance d’une montre de luxe et les prouesses technologiques des modèles connectés. Chic et hautement équipée, la Huawei Watch GT 4 est en plus abordable, avec un prix d…",
+            "url": "https://www.frandroid.com/marques/huawei/1796917_huawei-watch-gt-4-enfin-une-montre-connectee-aussi-chic-quun-bijou",
+            "urlToImage": "https://images.frandroid.com/wp-content/uploads/2023/09/mkt-watch-gt-4-46mm-en-jpg-hq-20230818.jpeg",
+            "publishedAt": "2023-09-18T16:30:38Z",
+            "content": "Avec sa nouvelle Watch GT 4, Huawei prouve quil nest pas nécessaire darbitrer entre lélégance dune montre de luxe et les prouesses technologiques des modèles connectés. Chic et hautement équipée, la … [+6244 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurosport.fr"
+            },
+            "author": null,
+            "title": "Battu sur le fil à Nancy, Paris cède son trône",
+            "description": "\"Le Paris Basketball n\\u0027est plus invincible. L\\u0027équipe francilienne a perdu pour la première fois de la saison en championnat, lors de la 5e journée d\\u0027Elite, jeudi dans la salle de Nancy (81-78). Les visiteurs ont pourtant mené de trois points à …",
+            "url": "https://www.eurosport.fr/basketball/betclic-elite/2023-2024/elite-battu-pour-la-premiere-fois-a-nancy-81-78-paris-perd-la-tete-du-classement_sto9825437/story.shtml",
+            "urlToImage": "https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2023/10/05/3798453-77258988-2560-1440.jpg",
+            "publishedAt": "2023-10-05T21:36:49Z",
+            "content": "T.J. Shorts, Paris Basketball\r\nCrédit: Imago"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurosport.fr"
+            },
+            "author": null,
+            "title": "Sénégal - Algérie EN DIRECT",
+            "description": "Eurosport est votre source privilégiée pour les dernières mises à jour des matches de Matches amicaux. Obtenez le résumé complet du Sénégal - Algérie, avec les statistiques et les temps forts.",
+            "url": "https://www.eurosport.fr/football/matches-amicaux-1/2023/live-senegal-algerie_mtc1458211/live.shtml",
+            "urlToImage": "https://dnl.eurosport.com/sd/img/og/eurosport.jpg",
+            "publishedAt": "2023-09-12T19:01:14Z",
+            "content": "Suivez en direct le match de Matches amicaux en Football entre Sénégal et Algérie sur Eurosport. Le match commence à 21:00 le 12 septembre 2023.\r\nLisez les dernières informations sur Sénégal et Algér… [+534 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurosport.fr"
+            },
+            "author": null,
+            "title": "Fulham - Chelsea EN DIRECT",
+            "description": "Eurosport est votre source privilégiée pour les dernières mises à jour des matches de Premier League. Obtenez le résumé complet du Fulham - Chelsea, avec les statistiques et les temps forts.",
+            "url": "https://www.eurosport.fr/football/premier-league/2023-2024/live-fulham-chelsea_mtc1439039/live.shtml",
+            "urlToImage": "https://dnl.eurosport.com/sd/img/og/eurosport.jpg",
+            "publishedAt": "2023-10-02T18:52:52Z",
+            "content": "Suivez en direct le match de Premier League en Football entre Fulham et Chelsea sur Eurosport. Le match commence à 21:00 le 2 octobre 2023.\r\nLisez les dernières informations sur Fulham et Chelsea et … [+527 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurosport.fr"
+            },
+            "author": null,
+            "title": "Manchester United - Galatasaray EN DIRECT",
+            "description": "Eurosport est votre source privilégiée pour les dernières mises à jour des matches de Ligue des champions. Obtenez le résumé complet du Manchester United - Galatasaray, avec les statistiques et les temps forts.",
+            "url": "https://www.eurosport.fr/football/ligue-des-champions/2023-2024/live-manchester-united-galatasaray_mtc1438456/live.shtml",
+            "urlToImage": "https://dnl.eurosport.com/sd/img/og/eurosport.jpg",
+            "publishedAt": "2023-10-03T18:51:21Z",
+            "content": "Suivez en direct le match de Ligue des champions en Football entre Manchester United et Galatasaray sur Eurosport. Le match commence à 21:00 le 3 octobre 2023.\r\nLisez les dernières informations sur M… [+567 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurosport.fr"
+            },
+            "author": null,
+            "title": "Le Havre - Clermont en direct",
+            "description": "Eurosport est votre source privilégiée pour les dernières mises à jour des matches de Ligue 1. Obtenez le résumé complet du Le Havre AC - Clermont Foot, avec les statistiques et les temps forts.",
+            "url": "https://www.eurosport.fr/football/ligue-1/2023-2024/live-le-havre-ac-clermont-foot_mtc1447629/live.shtml",
+            "urlToImage": "https://dnl.eurosport.com/sd/img/og/eurosport.jpg",
+            "publishedAt": "2023-09-24T12:58:47Z",
+            "content": "Suivez en direct le match de Ligue 1 en Football entre Le Havre AC et Clermont Foot sur Eurosport. Le match commence à 15:00 le 24 septembre 2023.\r\nLisez les dernières informations sur Le Havre AC et… [+538 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurosport.fr"
+            },
+            "author": null,
+            "title": "Clermont - PSG EN DIRECT",
+            "description": "Eurosport est votre source privilégiée pour les dernières mises à jour des matches de Ligue 1. Obtenez le résumé complet du Clermont Foot - Paris Saint-Germain, avec les statistiques et les temps forts.",
+            "url": "https://www.eurosport.fr/football/ligue-1/2023-2024/live-clermont-foot-paris-saint-germain_mtc1447646/live.shtml",
+            "urlToImage": "https://dnl.eurosport.com/sd/img/og/eurosport.jpg",
+            "publishedAt": "2023-09-30T14:54:48Z",
+            "content": "Suivez en direct le match de Ligue 1 en Football entre Clermont Foot et Paris Saint-Germain sur Eurosport. Le match commence à 17:00 le 30 septembre 2023.\r\nLisez les dernières informations sur Clermo… [+554 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurosport.fr"
+            },
+            "author": null,
+            "title": "Reims - Lyon EN DIRECT",
+            "description": "Eurosport est votre source privilégiée pour les dernières mises à jour des matches de Ligue 1. Obtenez le résumé complet du Stade de Reims - Olympique Lyonnais, avec les statistiques et les temps forts.",
+            "url": "https://www.eurosport.fr/football/ligue-1/2023-2024/live-stade-de-reims-olympique-lyonnais_mtc1447643/live.shtml",
+            "urlToImage": "https://dnl.eurosport.com/sd/img/og/eurosport.jpg",
+            "publishedAt": "2023-10-01T10:50:26Z",
+            "content": "Suivez en direct le match de Ligue 1 en Football entre Stade de Reims et Olympique Lyonnais sur Eurosport. Le match commence à 13:00 le 1 octobre 2023.\r\nLisez les dernières informations sur Stade de … [+551 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurosport.fr"
+            },
+            "author": null,
+            "title": "Manchester United - Brentford EN DIRECT",
+            "description": "Eurosport est votre source privilégiée pour les dernières mises à jour des matches de Premier League. Obtenez le résumé complet du Manchester United - Brentford, avec les statistiques et les temps forts.",
+            "url": "https://www.eurosport.fr/football/premier-league/2023-2024/live-manchester-united-brentford_mtc1438952/live.shtml",
+            "urlToImage": "https://dnl.eurosport.com/sd/img/og/eurosport.jpg",
+            "publishedAt": "2023-10-07T13:14:09Z",
+            "content": "Suivez en direct le match de Premier League en Football entre Manchester United et Brentford sur Eurosport. Le match commence à 16:00 le 7 octobre 2023.\r\nLisez les dernières informations sur Manchest… [+553 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurosport.fr"
+            },
+            "author": null,
+            "title": "Italie - Ukraine EN DIRECT",
+            "description": "Eurosport est votre source privilégiée pour les dernières mises à jour des matches de Qualifications Euro. Obtenez le résumé complet du Italie - Ukraine, avec les statistiques et les temps forts.",
+            "url": "https://www.eurosport.fr/football/qualifications-euro/2024/live-italie-ukraine_mtc1404651/live.shtml",
+            "urlToImage": "https://dnl.eurosport.com/sd/img/og/eurosport.jpg",
+            "publishedAt": "2023-09-12T18:32:19Z",
+            "content": "Suivez en direct le match de Qualifications Euro en Football entre Italie et Ukraine sur Eurosport. Le match commence à 20:45 le 12 septembre 2023.\r\nLisez les dernières informations sur Italie et Ukr… [+540 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurosport.fr"
+            },
+            "author": null,
+            "title": "Arsenal - Tottenham EN DIRECT",
+            "description": "Eurosport est votre source privilégiée pour les dernières mises à jour des matches de Premier League. Obtenez le résumé complet du Arsenal - Tottenham, avec les statistiques et les temps forts.",
+            "url": "https://www.eurosport.fr/football/premier-league/2023-2024/live-arsenal-tottenham_mtc1439032/live.shtml",
+            "urlToImage": "https://dnl.eurosport.com/sd/img/og/eurosport.jpg",
+            "publishedAt": "2023-09-24T12:59:06Z",
+            "content": "Suivez en direct le match de Premier League en Football entre Arsenal et Tottenham sur Eurosport. Le match commence à 15:00 le 24 septembre 2023.\r\nLisez les dernières informations sur Arsenal et Tott… [+536 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurosport.fr"
+            },
+            "author": null,
+            "title": "Lens - Toulouse EN DIRECT",
+            "description": "Eurosport est votre source privilégiée pour les dernières mises à jour des matches de Ligue 1. Obtenez le résumé complet du RC Lens - Toulouse FC, avec les statistiques et les temps forts.",
+            "url": "https://www.eurosport.fr/football/ligue-1/2023-2024/live-rc-lens-toulouse-fc_mtc1447635/live.shtml",
+            "urlToImage": "https://dnl.eurosport.com/sd/img/og/eurosport.jpg",
+            "publishedAt": "2023-09-24T12:58:26Z",
+            "content": "Suivez en direct le match de Ligue 1 en Football entre RC Lens et Toulouse FC sur Eurosport. Le match commence à 15:00 le 24 septembre 2023.\r\nLisez les dernières informations sur RC Lens et Toulouse … [+526 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurosport.fr"
+            },
+            "author": null,
+            "title": "Bayern Munich - Leverkusen EN DIRECT",
+            "description": "Eurosport est votre source privilégiée pour les dernières mises à jour des matches de Bundesliga. Obtenez le résumé complet du Bayern Munich - Bayer 04 Leverkusen, avec les statistiques et les temps forts.",
+            "url": "https://www.eurosport.fr/football/bundesliga/2023-2024/live-bayern-munich-bayer-04-leverkusen_mtc1448327/live.shtml",
+            "urlToImage": "https://i.eurosport.com/2023/09/02/3776762-76825168-2560-1440.jpg",
+            "publishedAt": "2023-09-15T18:25:08Z",
+            "content": "Suivez en direct le match de Bundesliga en Football entre Bayern Munich et Bayer 04 Leverkusen sur Eurosport. Le match commence à 20:30 le 15 septembre 2023.\r\nLisez les dernières informations sur Bay… [+560 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurosport.fr"
+            },
+            "author": null,
+            "title": "Inter - Milan AC EN DIRECT",
+            "description": "Eurosport est votre source privilégiée pour les dernières mises à jour des matches de Serie A. Obtenez le résumé complet du Inter Milan - AC Milan, avec les statistiques et les temps forts.",
+            "url": "https://www.eurosport.fr/football/serie-a/2023-2024/live-inter-milan-ac-milan_mtc1450492/live.shtml",
+            "urlToImage": "https://i.eurosport.com/2023/09/15/3785177-76993473-2560-1440.jpg",
+            "publishedAt": "2023-09-16T16:02:33Z",
+            "content": "Suivez en direct le match de Serie A en Football entre Inter Milan et AC Milan sur Eurosport. Le match commence à 18:00 le 16 septembre 2023.\r\nLisez les dernières informations sur Inter Milan et AC M… [+528 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurosport.fr"
+            },
+            "author": null,
+            "title": "Gérone - Real Madrid EN DIRECT",
+            "description": "Eurosport est votre source privilégiée pour les dernières mises à jour des matches de La Liga. Obtenez le résumé complet du Girona FC - Real Madrid, avec les statistiques et les temps forts.",
+            "url": "https://www.eurosport.fr/football/la-liga/2023-2024/live-girona-fc-real-madrid_mtc1444791/live.shtml",
+            "urlToImage": "https://dnl.eurosport.com/sd/img/og/eurosport.jpg",
+            "publishedAt": "2023-09-30T16:22:14Z",
+            "content": "Suivez en direct le match de La Liga en Football entre Girona FC et Real Madrid sur Eurosport. Le match commence à 18:30 le 30 septembre 2023.\r\nLisez les dernières informations sur Girona FC et Real … [+530 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurosport.fr"
+            },
+            "author": null,
+            "title": "FC Porto - FC Barcelone EN DIRECT",
+            "description": "Eurosport est votre source privilégiée pour les dernières mises à jour des matches de Ligue des champions. Obtenez le résumé complet du FC Porto - FC Barcelone, avec les statistiques et les temps forts.",
+            "url": "https://www.eurosport.fr/football/ligue-des-champions/2023-2024/live-fc-porto-fc-barcelone_mtc1438539/live.shtml",
+            "urlToImage": "https://dnl.eurosport.com/sd/img/og/eurosport.jpg",
+            "publishedAt": "2023-10-04T18:46:56Z",
+            "content": "Suivez en direct le match de Ligue des champions en Football entre FC Porto et FC Barcelone sur Eurosport. Le match commence à 21:00 le 4 octobre 2023.\r\nLisez les dernières informations sur FC Porto … [+551 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurosport.fr"
+            },
+            "author": null,
+            "title": "Borussia Dortmund - AC Milan EN DIRECT",
+            "description": "Eurosport est votre source privilégiée pour les dernières mises à jour des matches de Ligue des champions. Obtenez le résumé complet du Dortmund - AC Milan, avec les statistiques et les temps forts.",
+            "url": "https://www.eurosport.fr/football/ligue-des-champions/2023-2024/live-dortmund-ac-milan_mtc1438516/live.shtml",
+            "urlToImage": "https://dnl.eurosport.com/sd/img/og/eurosport.jpg",
+            "publishedAt": "2023-10-04T18:46:28Z",
+            "content": "Suivez en direct le match de Ligue des champions en Football entre Dortmund et AC Milan sur Eurosport. Le match commence à 21:00 le 4 octobre 2023.\r\nLisez les dernières informations sur Dortmund et A… [+543 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurosport.fr"
+            },
+            "author": null,
+            "title": "Leipzig - Manchester City EN DIRECT",
+            "description": "Eurosport est votre source privilégiée pour les dernières mises à jour des matches de Ligue des champions. Obtenez le résumé complet du RB Leipzig - Manchester City, avec les statistiques et les temps forts.",
+            "url": "https://www.eurosport.fr/football/ligue-des-champions/2023-2024/live-rb-leipzig-manchester-city_mtc1438528/live.shtml",
+            "urlToImage": "https://dnl.eurosport.com/sd/img/og/eurosport.jpg",
+            "publishedAt": "2023-10-04T18:47:06Z",
+            "content": "Suivez en direct le match de Ligue des champions en Football entre RB Leipzig et Manchester City sur Eurosport. Le match commence à 21:00 le 4 octobre 2023.\r\nLisez les dernières informations sur RB L… [+561 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurosport.fr"
+            },
+            "author": null,
+            "title": "Klaksvik - Lille EN DIRECT",
+            "description": "Eurosport est votre source privilégiée pour les dernières mises à jour des matches de Ligue Europa Conférence. Obtenez le résumé complet du KÍ - Lille OSC, avec les statistiques et les temps forts.",
+            "url": "https://www.eurosport.fr/football/ligue-europa-conference/2023-2024/live-ki-lille-osc_mtc1440303/live.shtml",
+            "urlToImage": "https://dnl.eurosport.com/sd/img/og/eurosport.jpg",
+            "publishedAt": "2023-10-05T16:31:30Z",
+            "content": "Suivez en direct le match de Ligue Europa Conférence en Football entre KÍ et Lille OSC sur Eurosport. Le match commence à 18:45 le 5 octobre 2023.\r\nLisez les dernières informations sur KÍ et Lille OS… [+541 chars]"
+        }
+    ]
+}
